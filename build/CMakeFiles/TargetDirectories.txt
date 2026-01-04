@@ -1,0 +1,4 @@
+/home/cyberboy/Desktop/react-native-static-server/lua_sqlite/build/CMakeFiles/sqlite3.dir
+/home/cyberboy/Desktop/react-native-static-server/lua_sqlite/build/CMakeFiles/lsqlite3.dir
+/home/cyberboy/Desktop/react-native-static-server/lua_sqlite/build/CMakeFiles/edit_cache.dir
+/home/cyberboy/Desktop/react-native-static-server/lua_sqlite/build/CMakeFiles/rebuild_cache.dir
