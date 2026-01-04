@@ -1,4 +1,3 @@
-```markdown
 # lua_sqlite_fts
 
 **lua_sqlite_fts** is a custom build of **SQLite with Full-Text Search (FTS)** exposed to **Lua**, with first-class support for **cross-compilation to ARMv8-A (aarch64)**.
